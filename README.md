@@ -12,6 +12,7 @@
 ## 🚀 Featured Python Projects
 
 ### 🧠 Algorithmic & Logic-Based Projects
+[View Repository ->](https://github.com/aylinguler/python-algorithmic-projects.git)
 - Arithmetic Formatter (FreeCodeCamp)
 - Time Calculator (FreeCodeCamp)
 - Right Truncatable Numbers
