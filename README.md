@@ -15,7 +15,6 @@
 - Arithmetic Formatter (FreeCodeCamp)
 - Time Calculator (FreeCodeCamp)
 - Right Truncatable Numbers
-- Munodi Sequence
 
 ## 🎯 Current Focus
 - Writing cleaner and more modular Python code
