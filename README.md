@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Aylin 👋
 
-<!--
-**aylinguler/aylinguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
+💻 Focused on Python and algorithmic problem solving  
+📍 Currently strengthening foundations in data structures and computational thinking
 
-Here are some ideas to get you started:
+**Languages**
+- Python (primary)
+- C (basic)
+- MATLAB (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Python Projects
+
+### 🧠 Algorithmic & Logic-Based Projects
+- Arithmetic Formatter (FreeCodeCamp)
+- Time Calculator (FreeCodeCamp)
+- Right Truncatable Numbers
+- Munodi Sequence
+
+## 🎯 Current Focus
+- Writing cleaner and more modular Python code
+- Strengthening mathematical problem-solving skills
+- Preparing for technical and academic exams
+
+## 🌱 Goals
+
+- Build stronger data structure implementations
+- Develop small but complete Python applications
+- Improve version control practices using Git
