@@ -13,6 +13,7 @@
 
 ### 🧠 Algorithmic & Logic-Based Projects
 [View Repository ->](https://github.com/aylinguler/python-algorithmic-projects.git)
+- Budget App
 - Sudoku Solver
 - Time Calculator
 - Right Truncatable Numbers
@@ -23,7 +24,6 @@
 - Preparing for technical and academic exams
 
 ## 🌱 Goals
-
 - Build stronger data structure implementations
 - Develop small but complete Python applications
 - Improve version control practices using Git
