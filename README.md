@@ -15,6 +15,7 @@
 [View Repository ->](https://github.com/aylinguler/python-algorithmic-projects.git)
 - Budget App
 - Sudoku Solver
+- Polygon Area Calculator
 - Time Calculator
 - Right Truncatable Numbers
 
